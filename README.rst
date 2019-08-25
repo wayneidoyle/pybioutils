@@ -1,4 +1,4 @@
-MoP
+pybioutils
 ================
 
 This is a growing collection of functions that I have found useful for performing bioinformatics and computational biology related analyses.
