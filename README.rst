@@ -14,7 +14,7 @@ Requirements
 
 Installation
 ------------
-The only way to install MoP is by cloning the GitHub repository. Enter the directory
+The only way to install pybioutils is by cloning the GitHub repository. Enter the directory
 where you would like to download the repository and enter the following commands on
 the command line::
 
